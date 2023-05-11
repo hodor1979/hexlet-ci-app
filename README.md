@@ -2,6 +2,7 @@ https://img.shields.io/github/actions/workflow/status/hodor1979/hexlet-ci-app/wf
 
 
 
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
